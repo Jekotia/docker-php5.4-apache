@@ -1,3 +1,5 @@
+Forked from [plutonianbe/docker-php5.4-apache](https://github.com/plutonianbe/docker-php5.4-apache) and updated as needed to be buildable. This should not be considered as secure, I don't know what I'm doing. I just needed a working php5.4 image with apache webserver to evaluate some old projects and determine if they're worth updating to a newer php release.
+
 # PHP 5.4 Apache
 
 PHP 5.4 [reached EOL](http://php.net/eol.php) on 3 Sep 2015 and thus, official docker support was dropped.
